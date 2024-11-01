@@ -6,3 +6,5 @@ J4F
 # TECHNOLOGIES USED
 - HTML
 - PYTHON
+- Java Script
+- CSS
